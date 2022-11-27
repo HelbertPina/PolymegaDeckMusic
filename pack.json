@@ -1,0 +1,10 @@
+{
+  "name": "Polymega Ambiance",
+  "description": "Polymega User Interface Ambience (Prod. by AMTRAC).",
+  "author": "Polymega",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
